@@ -1,0 +1,12 @@
+[user]
+	name = uewtwo
+	email = nkyt161@gmail.com
+[branch]
+	autosetuprebase = always
+[core]
+	quotepath = false
+[pull]
+	rebase = false
+[fetch]
+	prune = true
+
